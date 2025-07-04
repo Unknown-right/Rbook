@@ -8,7 +8,7 @@ In this Chapter we'll go over the main data types in R and focus on some of the 
 
 Understanding the different types of data and how R deals with these data is important. The temptation is to glaze over and skip these technical details, but beware, this can come back to bite you somewhere unpleasant if you don't pay attention. We've already seen an [example](#r_objs) of this when we tried (and failed) to add two character objects together using the `+` operator.
 
-R has six basic types of data; numeric, integer, logical, complex and character. The keen eyed among you will notice we've only listed five data types here, the final data type is raw which we won't cover as it's not useful 99.99% of the time. We also won't cover complex numbers as we don't have the [imagination][complex_num]!
+R has five basic types of data; numeric, integer, logical, complex and character. The keen eyed among you will notice we've only listed four data types here, the final data type is raw which we won't cover as it's not useful 99.99% of the time. We also won't cover complex numbers as we don't have the [imagination][complex_num]!
 
 \  
 
